@@ -9,13 +9,13 @@ I bridge business strategy and AI product development — from leading ₩100B+ 
 ### 🔭 What I Do
 
 - **Business Planning & Sales Operations** — Driving go-to-market strategies, pricing models for Document AI & LLMs, and managing global sales operations with OKR frameworks at Upstage
-- **AI Product Management** — Led AskUp (카카오톡 기반 AI 챗봇, 25일 만에 50만 사용자 돌파) combining GPT-4 + Upstage OCR
+- **AI Product Management** — Led AskUp (KakaoTalk-based AI chatbot, 500K users in 25 days) combining GPT-4 + Upstage OCR
 - **Workflow Automation** — Building and teaching n8n automation workflows (22-lecture open course & custom nodes)
 
 ### 💼 Background
 
 - **Upstage** — Biz Planning & Sales Ops Lead / AskUp PM
-- **Bain & Company** — Associate Consultant (AI/ML strategy, M&A across tech·commerce·insurance)
+- **Bain & Company** — Associate Consultant (AI/ML strategy, M&A across tech · commerce · insurance)
 - **BCG** — Research Assistant (Python algorithms for data analysis)
 - **Korea University** — B.A. (2012–2019)
 
@@ -32,11 +32,12 @@ I bridge business strategy and AI product development — from leading ₩100B+ 
 
 | Project | Description |
 |---------|-------------|
-| [n8n-opencourse](https://github.com/ehpyeon/n8n-opencourse) | 22개 강의로 구성된 n8n 노코드 자동화 오픈 교육 과정 |
+| [harness101](https://github.com/ehpyeon/harness101) | A storytelling guide to Harness Engineering with Claude Code — 17 units, bilingual KO/EN |
+| [n8n-opencourse](https://github.com/ehpyeon/n8n-opencourse) | 22-lecture n8n no-code automation open course |
 | [n8n-nodes-mcp-enhanced](https://github.com/ehpyeon/n8n-nodes-mcp-enhanced) | Enhanced MCP Client for n8n with AI Agent support |
 | [n8n-nodes-agenta](https://github.com/ehpyeon/n8n-nodes-agenta) | Agenta prompt management nodes for n8n |
-| [ai-chat-service](https://github.com/ehpyeon/ai-chat-service) | AI 채팅 서비스 (Next.js + Express + TypeScript) |
-| [translator_comparison](https://github.com/ehpyeon/translator_comparison) | Upstage Solar vs DeepL 번역 성능·비용 비교 |
+| [ai-chat-service](https://github.com/ehpyeon/ai-chat-service) | AI chat service (Next.js + Express + TypeScript) |
+| [translator_comparison](https://github.com/ehpyeon/translator_comparison) | Upstage Solar vs DeepL translation performance & cost comparison |
 
 ### 📊 GitHub Stats
 

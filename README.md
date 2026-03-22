@@ -1,16 +1,23 @@
 # Hi, I'm Euihyeon 👋
 
-**AI Product Manager** at [Upstage](https://upstage.ai) · Building **AskUp** · No-code Automation Educator
+**Biz Planning & Sales Ops Lead** at [Upstage](https://upstage.ai) · AskUp PM · Korea University
 
-I build AI-powered products and make complex technology accessible through education and automation.
+I bridge business strategy and AI product development — from leading ₩100B+ funding rounds and go-to-market strategies to building AI-powered products used by 500K+ users.
 
 ---
 
 ### 🔭 What I Do
 
-- **AI Product Management** — Leading AskUp at Upstage, turning LLM capabilities into user-facing products
-- **Workflow Automation** — Building and teaching n8n automation workflows (22-lecture course & custom nodes)
-- **LLM Evaluation** — Benchmarking and comparing language models (Solar, GLM, Phi, DeepL)
+- **Business Planning & Sales Operations** — Driving go-to-market strategies, pricing models for Document AI & LLMs, and managing global sales operations with OKR frameworks at Upstage
+- **AI Product Management** — Led AskUp (카카오톡 기반 AI 챗봇, 25일 만에 50만 사용자 돌파) combining GPT-4 + Upstage OCR
+- **Workflow Automation** — Building and teaching n8n automation workflows (22-lecture open course & custom nodes)
+
+### 💼 Background
+
+- **Upstage** — Biz Planning & Sales Ops Lead / AskUp PM
+- **Bain & Company** — Associate Consultant (AI/ML strategy, M&A across tech·commerce·insurance)
+- **BCG** — Research Assistant (Python algorithms for data analysis)
+- **Korea University** — B.A. (2012–2019)
 
 ### 🛠 Tech Stack
 
@@ -25,7 +32,7 @@ I build AI-powered products and make complex technology accessible through educa
 
 | Project | Description |
 |---------|-------------|
-| [n8n-education-platform](https://github.com/ehpyeon/n8n-education-platform) | 22개 강의로 구성된 노코드 자동화 교육 플랫폼 |
+| [n8n-opencourse](https://github.com/ehpyeon/n8n-opencourse) | 22개 강의로 구성된 n8n 노코드 자동화 오픈 교육 과정 |
 | [n8n-nodes-mcp-enhanced](https://github.com/ehpyeon/n8n-nodes-mcp-enhanced) | Enhanced MCP Client for n8n with AI Agent support |
 | [n8n-nodes-agenta](https://github.com/ehpyeon/n8n-nodes-agenta) | Agenta prompt management nodes for n8n |
 | [ai-chat-service](https://github.com/ehpyeon/ai-chat-service) | AI 채팅 서비스 (Next.js + Express + TypeScript) |

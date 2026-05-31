@@ -42,8 +42,11 @@ I bridge business strategy and AI product development — from leading ₩100B+ 
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ehpyeon&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehpyeon&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehpyeon&theme=default" width="100%" />
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehpyeon&theme=default" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ehpyeon&theme=default" height="200" />
 </p>
 
 ### 📫 Connect
